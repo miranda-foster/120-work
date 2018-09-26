@@ -20,3 +20,4 @@ What is this.
 I wish I had the confidence to help a fellow classmate out but at this point, that confidence has flown the coop. 
 
 ![Image of my editor](Foster_Markup_HW2.jpg)
+
